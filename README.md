@@ -1,4 +1,4 @@
-Hexa-Storm
+# Hexa-Storm
 
 What is this app?
 
@@ -7,7 +7,7 @@ It also keeps in account of the user who created it.
 
 ----------------------------------------------------------------
 
-What else can this app be used for?
+# What else can this app be used for?
 
 This app can be developed into anything that stores stuff like dates, data and something that is stored in files on the computer.
 
@@ -19,7 +19,7 @@ This can also be turned into a application which stores stuff like user data.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-What is the default format this file was made for?
+# What is the default format this file was made for?
 
 This file was tested as a .csv format which can be opened in both excel and notepad(or any other apps that can open .txt file extension)
 
