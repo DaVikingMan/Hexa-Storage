@@ -1,4 +1,4 @@
-# Hexa-Storm
+# Hexa-Storage
 
 What is this app?
 
