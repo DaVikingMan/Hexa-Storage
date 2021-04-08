@@ -2,7 +2,7 @@
 
 What is this app?
 
-This app keeps in account of the dates of cricket matches.
+This app keeps in account of the dates of matches(by default it is made for storing cricket matches but more types of data can be stored. Different types of data will be added in a later update).
 It also keeps in account of the user who created it.
 
 ----------------------------------------------------------------
