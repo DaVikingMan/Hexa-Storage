@@ -1,4 +1,4 @@
-#Cricket Score Counter
+Hexa-Storm
 
 What is this app?
 
