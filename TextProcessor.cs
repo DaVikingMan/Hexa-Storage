@@ -30,7 +30,7 @@ namespace MatchCalendar
             
 
 
-            //Person l = new Person();
+            
 
             foreach (var l in p)
             {
